@@ -1,11 +1,11 @@
-# Nome do produto
-> Descrição curta sobre o que seu projeto faz.
+# Music Recommendation 
+> It recommends music from a expecific genre you choose
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+This is a test project by a begginer in C#, it recomends music of a specific genre you choose, by shuffing a list of musics/genres. This project has the objetive to help me to learn git, gitHub.
 
 ![](../header.png)
 
